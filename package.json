@@ -1,0 +1,15 @@
+{
+  "name": "servico-pagamento-tcc",
+  "version": "1.0.0",
+  "description": "Trabalho de conclusão de curso: serviço de pagamento em JavaScript com testes Mocha.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha --timeout 5000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^11.7.5"
+  }
+}
